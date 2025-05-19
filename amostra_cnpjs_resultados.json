@@ -1,0 +1,129 @@
+[
+  {
+    "cnpj": "26387199146",
+    "cnpj_basico": "26387199",
+    "nome_empresa": "NOME NÃO DISPONÍVEL",
+    "situacao": 2,
+    "situacao_descricao": "ATIVA",
+    "esta_ativa": true,
+    "endereco": "RUA, DOS GOLFINHOS",
+    "bairro": "PARQUE OURO VERDE",
+    "uf": "PR",
+    "cnae_principal": 4929901,
+    "socios": []
+  },
+  {
+    "cnpj": "59147870130",
+    "cnpj_basico": "59147870",
+    "nome_empresa": "NOME NÃO DISPONÍVEL",
+    "situacao": 2,
+    "situacao_descricao": "ATIVA",
+    "esta_ativa": true,
+    "endereco": "10A RUA, MARIA VELOSO",
+    "bairro": "CENTRO",
+    "uf": "MG",
+    "cnae_principal": 5620101,
+    "socios": []
+  },
+  {
+    "cnpj": "24092097178",
+    "cnpj_basico": "24092097",
+    "nome_empresa": "NOME NÃO DISPONÍVEL",
+    "situacao": 2,
+    "situacao_descricao": "ATIVA",
+    "esta_ativa": true,
+    "endereco": "RUA, MORFEU",
+    "bairro": "JARDIM SANTO ANTONIO",
+    "uf": "SP",
+    "cnae_principal": 4930202,
+    "socios": []
+  },
+  {
+    "cnpj": "57160838160",
+    "cnpj_basico": "57160838",
+    "nome_empresa": "NOME NÃO DISPONÍVEL",
+    "situacao": 2,
+    "situacao_descricao": "ATIVA",
+    "esta_ativa": true,
+    "endereco": "RUA, SETENTA E UM",
+    "bairro": "VINHAIS",
+    "uf": "MA",
+    "cnae_principal": 4520001,
+    "socios": []
+  },
+  {
+    "cnpj": "40909120120",
+    "cnpj_basico": "40909120",
+    "nome_empresa": 2,
+    "situacao": 2,
+    "situacao_descricao": "ATIVA",
+    "esta_ativa": true,
+    "endereco": "RUA, MARIA GUIMARAES MAIA",
+    "bairro": "VILA MARIA IDALINA",
+    "uf": "MG",
+    "cnae_principal": 4541206,
+    "socios": [
+      {
+        "nome": "CLEIDIANO SILVA PEREIRA",
+        "cpf": "***313776**"
+      }
+    ]
+  },
+  {
+    "cnpj": "77058714490",
+    "status": "Não encontrado",
+    "socios": []
+  },
+  {
+    "cnpj": "36913844170",
+    "cnpj_basico": "36913844",
+    "nome_empresa": "NOME NÃO DISPONÍVEL",
+    "situacao": 2,
+    "situacao_descricao": "ATIVA",
+    "esta_ativa": true,
+    "endereco": "RUA, FELICIO DE CAMARGO",
+    "bairro": "CENTRO",
+    "uf": "SP",
+    "cnae_principal": 9602502,
+    "socios": []
+  },
+  {
+    "cnpj": "58297034170",
+    "cnpj_basico": "58297034",
+    "nome_empresa": "NOME NÃO DISPONÍVEL",
+    "situacao": 2,
+    "situacao_descricao": "ATIVA",
+    "esta_ativa": true,
+    "endereco": "RUA, TAPAJOS",
+    "bairro": "COQUEIRO",
+    "uf": "PA",
+    "cnae_principal": 8219999,
+    "socios": []
+  },
+  {
+    "cnpj": "71547434154",
+    "cnpj_basico": "71547434",
+    "nome_empresa": "NOME NÃO DISPONÍVEL",
+    "situacao": 2,
+    "situacao_descricao": "ATIVA",
+    "esta_ativa": true,
+    "endereco": "RUA, SANTOS",
+    "bairro": "BARRA FUNDA",
+    "uf": "SP",
+    "cnae_principal": 8112500,
+    "socios": []
+  },
+  {
+    "cnpj": "30449972129",
+    "cnpj_basico": "30449972",
+    "nome_empresa": "NOME NÃO DISPONÍVEL",
+    "situacao": 2,
+    "situacao_descricao": "ATIVA",
+    "esta_ativa": true,
+    "endereco": "AVENIDA, ITABUNA",
+    "bairro": "CONQUISTA",
+    "uf": "BA",
+    "cnae_principal": 4729699,
+    "socios": []
+  }
+]

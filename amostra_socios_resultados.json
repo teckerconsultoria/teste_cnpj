@@ -1,0 +1,199 @@
+[
+  {
+    "nome": "GISMAR ADMINISTRACAO E PARTICIPACAO SS LTDA.",
+    "cpf": "01690518000167",
+    "miolo_cpf": "016905",
+    "status": "Nome não corresponde",
+    "score": 0.3389830508474576,
+    "empresas": []
+  },
+  {
+    "nome": "JOSE OMIR VENEZIANI JUNIOR",
+    "cpf": "***896308**",
+    "miolo_cpf": "896308",
+    "status": "Encontrado",
+    "nome_encontrado": "JOSE OMIR VENEZIANI JUNIOR",
+    "cpf_encontrado": "***896308**",
+    "score": 1.0,
+    "empresas": [
+      {
+        "cnpj_basico": 58193687,
+        "nome_empresa": 2,
+        "situacao_cadastral": 2,
+        "situacao_descricao": "ATIVA",
+        "endereco": "ALAMEDA, TERRACOTA",
+        "bairro": "CERAMICA",
+        "uf": "SP",
+        "cnae_principal": 7490104
+      }
+    ]
+  },
+  {
+    "nome": "FRANCISCO DUARTE PEREIRA",
+    "cpf": "***727217**",
+    "miolo_cpf": "727217",
+    "status": "Encontrado",
+    "nome_encontrado": "FRANCISCO DUARTE PEREIRA",
+    "cpf_encontrado": "***727217**",
+    "score": 1.0,
+    "empresas": [
+      {
+        "cnpj_basico": 34305793,
+        "nome_empresa": 2,
+        "situacao_cadastral": 8,
+        "situacao_descricao": "BAIXADA",
+        "endereco": "ESTRADA, UNIAO E INDUSTRIA",
+        "bairro": "ITAIPAVA",
+        "uf": "RJ",
+        "cnae_principal": 6911701
+      }
+    ]
+  },
+  {
+    "nome": "JADER DA FONSECA RAMALHO",
+    "cpf": "***755000**",
+    "miolo_cpf": "755000",
+    "status": "Encontrado",
+    "nome_encontrado": "JADER DA FONSECA RAMALHO",
+    "cpf_encontrado": "***755000**",
+    "score": 1.0,
+    "empresas": [
+      {
+        "cnpj_basico": 46571133,
+        "nome_empresa": 2,
+        "situacao_cadastral": 2,
+        "situacao_descricao": "ATIVA",
+        "endereco": "AVENIDA, ATLANTICA",
+        "bairro": "CENTRO",
+        "uf": "SC",
+        "cnae_principal": 6810201
+      }
+    ]
+  },
+  {
+    "nome": "LUCIANO JUWER",
+    "cpf": "***083370**",
+    "miolo_cpf": "083370",
+    "status": "Encontrado",
+    "nome_encontrado": "LUCIANO JUWER",
+    "cpf_encontrado": "***083370**",
+    "score": 1.0,
+    "empresas": [
+      {
+        "cnpj_basico": 52364018,
+        "nome_empresa": 2,
+        "situacao_cadastral": 2,
+        "situacao_descricao": "ATIVA",
+        "endereco": "RUA, BORGES DE MEDEIROS",
+        "bairro": "CENTRO",
+        "uf": "RS",
+        "cnae_principal": 8630503
+      }
+    ]
+  },
+  {
+    "nome": "IRONETE ALMEIDA SILVA",
+    "cpf": "***284607**",
+    "miolo_cpf": "284607",
+    "status": "Encontrado",
+    "nome_encontrado": "IRONETE ALMEIDA SILVA",
+    "cpf_encontrado": "***284607**",
+    "score": 1.0,
+    "empresas": [
+      {
+        "cnpj_basico": 28882054,
+        "nome_empresa": 2,
+        "situacao_cadastral": 2,
+        "situacao_descricao": "ATIVA",
+        "endereco": "RUA, BARAO DE MESQUITA",
+        "bairro": "ANDARAI",
+        "uf": "RJ",
+        "cnae_principal": 5911199
+      }
+    ]
+  },
+  {
+    "nome": "CARLOS GRUN",
+    "cpf": "***339750**",
+    "miolo_cpf": "339750",
+    "status": "Encontrado",
+    "nome_encontrado": "CARLOS GRUN",
+    "cpf_encontrado": "***339750**",
+    "score": 1.0,
+    "empresas": [
+      {
+        "cnpj_basico": 27511348,
+        "nome_empresa": 2,
+        "situacao_cadastral": 2,
+        "situacao_descricao": "ATIVA",
+        "endereco": "AVENIDA, T 2",
+        "bairro": "SETOR BUENO",
+        "uf": "GO",
+        "cnae_principal": 6810203
+      }
+    ]
+  },
+  {
+    "nome": "MARCELO PEDROSO DE SOUZA",
+    "cpf": "***391270**",
+    "miolo_cpf": "391270",
+    "status": "Encontrado",
+    "nome_encontrado": "MARCELO PEDROSO DE SOUZA",
+    "cpf_encontrado": "***391270**",
+    "score": 1.0,
+    "empresas": [
+      {
+        "cnpj_basico": 47800570,
+        "nome_empresa": 2,
+        "situacao_cadastral": 2,
+        "situacao_descricao": "ATIVA",
+        "endereco": "AVENIDA, CAROLINA DE ABREU PAULINO",
+        "bairro": "VILA SAO FRANCISCO",
+        "uf": "SP",
+        "cnae_principal": 8599604
+      }
+    ]
+  },
+  {
+    "nome": "IVAN DUCKUR BIGNARDI",
+    "cpf": "***235798**",
+    "miolo_cpf": "235798",
+    "status": "Encontrado",
+    "nome_encontrado": "IVAN DUCKUR BIGNARDI",
+    "cpf_encontrado": "***235798**",
+    "score": 1.0,
+    "empresas": [
+      {
+        "cnpj_basico": 57433208,
+        "nome_empresa": 2,
+        "situacao_cadastral": 2,
+        "situacao_descricao": "ATIVA",
+        "endereco": "AVENIDA, PAULISTA",
+        "bairro": "BELA VISTA",
+        "uf": "SP",
+        "cnae_principal": 6204000
+      }
+    ]
+  },
+  {
+    "nome": "VALDECIR PEREIRA DOS SANTOS",
+    "cpf": "***206449**",
+    "miolo_cpf": "206449",
+    "status": "Encontrado",
+    "nome_encontrado": "VALDECIR PEREIRA DOS SANTOS",
+    "cpf_encontrado": "***206449**",
+    "score": 1.0,
+    "empresas": [
+      {
+        "cnpj_basico": 10675852,
+        "nome_empresa": 2,
+        "situacao_cadastral": 8,
+        "situacao_descricao": "BAIXADA",
+        "endereco": "RUA, RUA DR. PAULO ALDINGER",
+        "bairro": "ESCOLA AGRICOLA",
+        "uf": "SC",
+        "cnae_principal": 8299707
+      }
+    ]
+  }
+]

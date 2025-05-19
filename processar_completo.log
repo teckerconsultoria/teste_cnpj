@@ -1,0 +1,350 @@
+2025-05-19 11:11:31,311 - INFO - === PROCESSAMENTO DE BASE COMPLETA INICIADO EM 2025-05-19 11:11:31 ===
+2025-05-19 11:11:31,312 - INFO - Diretório de entrada: dados_cnpj_completo
+2025-05-19 11:11:31,314 - INFO - Diretório de saída: dados_cnpj_completo_extraidos
+2025-05-19 11:11:31,315 - INFO - Banco de dados: cnpj_completo.db
+2025-05-19 11:11:31,315 - INFO - Tipos filtrados: ['socios']
+2025-05-19 11:11:31,315 - INFO - Extraindo arquivos de dados_cnpj_completo para dados_cnpj_completo_extraidos...
+2025-05-19 11:11:31,316 - INFO - Encontrados 10 arquivos ZIP para extrair
+2025-05-19 11:11:50,283 - INFO - Extraídos 10 arquivos para dados_cnpj_completo_extraidos
+2025-05-19 11:11:50,287 - INFO - Criando banco de dados em cnpj_completo.db...
+2025-05-19 11:11:50,503 - INFO - Encontrados 10 arquivos para processar
+2025-05-19 11:11:50,578 - INFO - Após verificação, 10 arquivos serão processados
+2025-05-19 11:11:50,578 - INFO - Tipo socios: 10 arquivo(s)
+2025-05-19 11:11:50,579 - INFO - 
+Processando arquivos do tipo: socios
+2025-05-19 11:11:50,580 - INFO - Criando tabela socios...
+2025-05-19 11:11:50,580 - INFO - Processando K3241.K03200Y0.D50510.SOCIOCSV para tabela socios...
+2025-05-19 11:11:50,646 - INFO - Iniciando processamento em chunks (tamanho: 100000)...
+2025-05-19 11:11:51,462 - ERROR - Erro processando chunks: table socios has no column named cpf_miolo
+2025-05-19 11:11:51,462 - INFO - Tentando método alternativo simplificado...
+2025-05-19 11:25:05,088 - INFO - === PROCESSAMENTO DE BASE COMPLETA INICIADO EM 2025-05-19 11:25:05 ===
+2025-05-19 11:25:05,090 - INFO - Diretório de entrada: dados_cnpj_completo
+2025-05-19 11:25:05,090 - INFO - Diretório de saída: dados_cnpj_completo_extraidos
+2025-05-19 11:25:05,091 - INFO - Banco de dados: cnpj_completo.db
+2025-05-19 11:25:05,091 - INFO - Tipos filtrados: ['socios']
+2025-05-19 11:25:05,091 - INFO - Extraindo arquivos de dados_cnpj_completo para dados_cnpj_completo_extraidos...
+2025-05-19 11:25:05,093 - INFO - Encontrados 10 arquivos ZIP para extrair
+2025-05-19 11:25:29,488 - INFO - === PROCESSAMENTO DE BASE COMPLETA INICIADO EM 2025-05-19 11:25:29 ===
+2025-05-19 11:25:29,489 - INFO - Diretório de entrada: dados_cnpj_completo
+2025-05-19 11:25:29,490 - INFO - Diretório de saída: dados_cnpj_completo_extraidos
+2025-05-19 11:25:29,493 - INFO - Banco de dados: cnpj_completo.db
+2025-05-19 11:25:29,503 - INFO - Tipos filtrados: ['k3241k03200y0d']
+2025-05-19 11:25:29,504 - INFO - Extraindo arquivos de dados_cnpj_completo para dados_cnpj_completo_extraidos...
+2025-05-19 11:25:29,506 - INFO - Encontrados 0 arquivos ZIP para extrair
+2025-05-19 11:25:29,530 - INFO - Extraídos 10 arquivos para dados_cnpj_completo_extraidos
+2025-05-19 11:25:29,531 - INFO - Criando banco de dados em cnpj_completo.db...
+2025-05-19 11:25:29,567 - INFO - Encontrados 10 arquivos para processar
+2025-05-19 11:25:29,581 - INFO - Após verificação, 10 arquivos serão processados
+2025-05-19 11:25:29,582 - INFO - Tipo k3241k03200y0d: 10 arquivo(s)
+2025-05-19 11:25:29,582 - INFO - Tabelas existentes no banco: ['socios']
+2025-05-19 11:25:29,583 - INFO - 
+Processando arquivos do tipo: k3241k03200y0d
+2025-05-19 11:25:29,584 - INFO - Processando K3241.K03200Y0.D50510.SOCIOCSV para tabela k3241k03200y0d...
+2025-05-19 11:25:29,654 - INFO - Iniciando processamento em chunks (tamanho: 100000)...
+2025-05-19 11:25:30,448 - ERROR - Erro processando chunks: table k3241k03200y0d has no column named cpf_miolo
+2025-05-19 11:25:30,449 - INFO - Tentando método alternativo simplificado...
+2025-05-19 11:29:43,255 - INFO - === PROCESSAMENTO DE BASE COMPLETA INICIADO EM 2025-05-19 11:29:43 ===
+2025-05-19 11:29:43,255 - INFO - Diretório de entrada: dados_cnpj_completo
+2025-05-19 11:29:43,256 - INFO - Diretório de saída: dados_cnpj_completo_extraidos
+2025-05-19 11:29:43,256 - INFO - Banco de dados: cnpj_completo.db
+2025-05-19 11:29:43,256 - INFO - Tipos filtrados: ['socios']
+2025-05-19 11:29:43,256 - INFO - Extraindo arquivos de dados_cnpj_completo para dados_cnpj_completo_extraidos...
+2025-05-19 11:29:43,258 - INFO - Encontrados 10 arquivos ZIP para extrair
+2025-05-19 11:29:58,787 - INFO - Extraídos 10 arquivos para dados_cnpj_completo_extraidos
+2025-05-19 11:29:58,791 - INFO - Criando banco de dados em cnpj_completo.db...
+2025-05-19 11:29:58,998 - INFO - Encontrados 10 arquivos para processar
+2025-05-19 11:29:59,114 - INFO - Após verificação, 10 arquivos serão processados
+2025-05-19 11:29:59,115 - INFO - Tipo socios: 10 arquivo(s)
+2025-05-19 11:29:59,117 - INFO - Tabelas existentes no banco: ['socios', 'k3241k03200y0d']
+2025-05-19 11:29:59,124 - INFO - 
+Processando arquivos do tipo: socios
+2025-05-19 11:29:59,125 - INFO - Tabela socios já existe. Verificando registros...
+2025-05-19 11:29:59,126 - INFO - Tabela socios tem 1 registros.
+2025-05-19 11:29:59,127 - INFO - Colunas existentes em socios: ['cnpj_basico', '2', 'nome_socio', 'cpf_cnpj_socio', '49', '20000424', 'unnamed:_6', '***000000**', 'unnamed:_8', '00', '6']
+2025-05-19 11:29:59,128 - INFO - Processando arquivo auxiliar K3241.K03200Y0.D50510.SOCIOCSV para tabela socios...
+2025-05-19 11:30:55,230 - ERROR - Erro processando arquivo auxiliar K3241.K03200Y0.D50510.SOCIOCSV: table socios has no column named 03769328
+2025-05-19 11:30:56,676 - INFO - Processando arquivo auxiliar K3241.K03200Y1.D50510.SOCIOCSV para tabela socios...
+2025-05-19 11:31:04,044 - ERROR - Erro processando arquivo auxiliar K3241.K03200Y1.D50510.SOCIOCSV: table socios has no column named 07396865
+2025-05-19 11:31:04,274 - INFO - Processando arquivo auxiliar K3241.K03200Y2.D50510.SOCIOCSV para tabela socios...
+2025-05-19 11:31:10,745 - ERROR - Erro processando arquivo auxiliar K3241.K03200Y2.D50510.SOCIOCSV: table socios has no column named 37814521
+2025-05-19 11:31:10,977 - INFO - Processando arquivo auxiliar K3241.K03200Y3.D50510.SOCIOCSV para tabela socios...
+2025-05-19 11:31:17,358 - ERROR - Erro processando arquivo auxiliar K3241.K03200Y3.D50510.SOCIOCSV: table socios has no column named 19660849
+2025-05-19 11:31:17,607 - INFO - Processando arquivo auxiliar K3241.K03200Y4.D50510.SOCIOCSV para tabela socios...
+2025-05-19 11:31:24,047 - ERROR - Erro processando arquivo auxiliar K3241.K03200Y4.D50510.SOCIOCSV: table socios has no column named 75528562
+2025-05-19 11:31:24,285 - INFO - Processando arquivo auxiliar K3241.K03200Y5.D50510.SOCIOCSV para tabela socios...
+2025-05-19 11:31:30,747 - ERROR - Erro processando arquivo auxiliar K3241.K03200Y5.D50510.SOCIOCSV: table socios has no column named 04601262
+2025-05-19 11:31:30,982 - INFO - Processando arquivo auxiliar K3241.K03200Y6.D50510.SOCIOCSV para tabela socios...
+2025-05-19 11:31:37,313 - ERROR - Erro processando arquivo auxiliar K3241.K03200Y6.D50510.SOCIOCSV: table socios has no column named 52604025
+2025-05-19 11:31:37,574 - INFO - Processando arquivo auxiliar K3241.K03200Y7.D50510.SOCIOCSV para tabela socios...
+2025-05-19 11:31:44,505 - ERROR - Erro processando arquivo auxiliar K3241.K03200Y7.D50510.SOCIOCSV: table socios has no column named 30946943
+2025-05-19 11:31:44,746 - INFO - Processando arquivo auxiliar K3241.K03200Y8.D50510.SOCIOCSV para tabela socios...
+2025-05-19 11:31:51,125 - ERROR - Erro processando arquivo auxiliar K3241.K03200Y8.D50510.SOCIOCSV: table socios has no column named 20405365
+2025-05-19 11:31:51,361 - INFO - Processando arquivo auxiliar K3241.K03200Y9.D50510.SOCIOCSV para tabela socios...
+2025-05-19 11:31:57,736 - ERROR - Erro processando arquivo auxiliar K3241.K03200Y9.D50510.SOCIOCSV: table socios has no column named 07442045
+2025-05-19 11:31:58,011 - INFO - 
+Criando índices...
+2025-05-19 11:31:58,012 - INFO - Criando índices para a tabela socios...
+2025-05-19 11:31:58,014 - INFO - Criando índices para a tabela k3241k03200y0d...
+2025-05-19 11:31:58,031 - INFO -   Índice criado: idx_k3241k03200y0d_cnpj na coluna col_0
+2025-05-19 11:31:58,032 - INFO - 
+Criando visões para facilitar consultas...
+2025-05-19 11:31:58,033 - INFO -   Tabelas necessárias para criar visões não encontradas
+2025-05-19 11:31:58,041 - INFO - 
+Otimizando banco de dados...
+2025-05-19 11:31:58,053 - INFO - Banco de dados criado com sucesso em cnpj_completo.db
+2025-05-19 11:31:58,324 - INFO - Tamanho do banco de dados: 0.02 MB (0.00 GB)
+2025-05-19 11:31:58,325 - INFO - Processamento concluído em 135.07 segundos (2.25 minutos)
+2025-05-19 11:31:58,328 - INFO - === PROCESSAMENTO FINALIZADO EM 2025-05-19 11:31:58 ===
+2025-05-19 11:44:14,306 - INFO - === PROCESSAMENTO DE BASE COMPLETA INICIADO EM 2025-05-19 11:44:14 ===
+2025-05-19 11:44:14,306 - INFO - Diretório de entrada: dados_cnpj_completo
+2025-05-19 11:44:14,306 - INFO - Diretório de saída: dados_cnpj_completo_extraidos
+2025-05-19 11:44:14,306 - INFO - Banco de dados: cnpj_completo.db
+2025-05-19 11:44:14,307 - INFO - Tipos filtrados: ['socios']
+2025-05-19 11:44:14,307 - INFO - Tamanho do lote: 50000 registros
+2025-05-19 11:44:14,307 - INFO - Intervalo de progresso: 10 segundos
+2025-05-19 11:44:14,307 - INFO - Modo recriar tabelas: NÃO
+2025-05-19 11:44:14,312 - INFO - Extraindo arquivos de dados_cnpj_completo para dados_cnpj_completo_extraidos...
+2025-05-19 11:44:14,314 - INFO - Encontrados 10 arquivos ZIP para extrair
+2025-05-19 11:44:31,353 - INFO - Extraídos 10 arquivos para dados_cnpj_completo_extraidos
+2025-05-19 11:44:31,360 - INFO - Criando banco de dados em cnpj_completo.db...
+2025-05-19 11:44:31,435 - INFO - Encontrados 10 arquivos para processar
+2025-05-19 11:44:31,459 - INFO - Após verificação, 10 arquivos serão processados
+2025-05-19 11:44:31,469 - INFO - Tipo socios: 10 arquivo(s)
+2025-05-19 11:44:31,471 - INFO - Tabelas existentes no banco: ['socios', 'k3241k03200y0d', 'sqlite_stat1']
+2025-05-19 11:44:31,472 - INFO - 
+Processando arquivos do tipo: socios
+2025-05-19 11:44:31,486 - INFO - Tabela socios já existe. Verificando registros...
+2025-05-19 11:44:31,487 - INFO - Tabela socios tem 1 registros.
+2025-05-19 11:44:31,489 - INFO - Colunas existentes em socios: ['cnpj_basico', '2', 'nome_socio', 'cpf_cnpj_socio', '49', '20000424', 'unnamed:_6', '***000000**', 'unnamed:_8', '00', '6']
+2025-05-19 11:44:31,501 - INFO - Analisando estrutura do arquivo K3241.K03200Y0.D50510.SOCIOCSV...
+2025-05-19 11:44:31,548 - INFO - Estrutura detectada: delimiter=;, encoding=latin1
+2025-05-19 11:44:31,549 - INFO - Colunas: ['03769328', '2', 'LIVIA MARIA ANDRADE RAMOS GAERTNER', '***331355**', '49', '20000424', 'Unnamed: 6', '***000000**', 'Unnamed: 8', '00', '6']
+2025-05-19 11:45:18,200 - INFO - Tamanho do banco de dados: 0.02 MB (0.00 GB)
+2025-05-19 11:45:18,201 - INFO - Processamento concluído em 63.89 segundos (1.06 minutos)
+2025-05-19 11:45:18,208 - INFO - === PROCESSAMENTO FINALIZADO EM 2025-05-19 11:45:18 ===
+2025-05-19 11:45:57,011 - INFO - === PROCESSAMENTO DE BASE COMPLETA INICIADO EM 2025-05-19 11:45:57 ===
+2025-05-19 11:45:57,012 - INFO - Diretório de entrada: dados_cnpj_completo
+2025-05-19 11:45:57,012 - INFO - Diretório de saída: dados_cnpj_completo_extraidos
+2025-05-19 11:45:57,013 - INFO - Banco de dados: cnpj_completo.db
+2025-05-19 11:45:57,014 - INFO - Tipos filtrados: ['socios']
+2025-05-19 11:45:57,015 - INFO - Tamanho do lote: 100000 registros
+2025-05-19 11:45:57,015 - INFO - Intervalo de progresso: 10 segundos
+2025-05-19 11:45:57,016 - INFO - Modo recriar tabelas: SIM
+2025-05-19 11:45:57,034 - INFO - Extraindo arquivos de dados_cnpj_completo para dados_cnpj_completo_extraidos...
+2025-05-19 11:45:57,036 - INFO - Encontrados 10 arquivos ZIP para extrair
+2025-05-19 11:46:15,099 - INFO - Extraídos 10 arquivos para dados_cnpj_completo_extraidos
+2025-05-19 11:46:15,105 - INFO - Criando banco de dados em cnpj_completo.db...
+2025-05-19 11:46:15,209 - INFO - Encontrados 10 arquivos para processar
+2025-05-19 11:46:15,238 - INFO - Após verificação, 10 arquivos serão processados
+2025-05-19 11:46:15,242 - INFO - Tipo socios: 10 arquivo(s)
+2025-05-19 11:46:15,254 - INFO - Tabelas existentes no banco: ['socios', 'k3241k03200y0d', 'sqlite_stat1']
+2025-05-19 11:46:15,258 - INFO - 
+Processando arquivos do tipo: socios
+2025-05-19 11:46:15,260 - INFO - Recriando tabela socios...
+2025-05-19 11:46:15,267 - INFO - Analisando estrutura do arquivo K3241.K03200Y0.D50510.SOCIOCSV...
+2025-05-19 11:46:15,325 - INFO - Estrutura detectada: delimiter=;, encoding=latin1
+2025-05-19 11:46:15,326 - INFO - Colunas: ['03769328', '2', 'LIVIA MARIA ANDRADE RAMOS GAERTNER', '***331355**', '49', '20000424', 'Unnamed: 6', '***000000**', 'Unnamed: 8', '00', '6']
+2025-05-19 11:46:15,340 - INFO - Processando lote de arquivos 1-10 de 10
+2025-05-19 11:46:15,342 - INFO - Processando K3241.K03200Y0.D50510.SOCIOCSV (1/10 do lote atual)
+2025-05-19 11:46:16,537 - INFO - Tabela socios criada com colunas: ['03769328', '2', 'livia_maria_andrade_ramos_gaertner', '***331355**', '49', '20000424', 'unnamed:_6', '***000000**', 'unnamed:_8', '00', '6', 'cpf_miolo']
+2025-05-19 11:46:16,814 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:16,825 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:17,093 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:17,105 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:17,366 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:17,376 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:17,709 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:17,720 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:17,980 - INFO - Processados 500,000 registros em 2.6s (190771.1 reg/s)
+2025-05-19 11:46:17,983 - INFO - PROGRESSO (21.0s): Processados 500,000 registros em 2.6s (190771.1 reg/s)
+2025-05-19 11:46:17,991 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:17,993 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:18,251 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:18,262 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:18,523 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:18,533 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:18,805 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:18,815 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:19,065 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:19,075 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:19,333 - INFO - Processados 1,000,000 registros em 4.0s (251652.0 reg/s)
+2025-05-19 11:46:19,336 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:19,345 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:19,605 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:19,616 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:19,874 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:19,884 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:20,134 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:20,144 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:20,389 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:20,400 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:20,654 - INFO - Processados 1,500,000 registros em 5.3s (283299.7 reg/s)
+2025-05-19 11:46:20,657 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:20,665 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:20,924 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:20,934 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:21,180 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:21,191 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:21,446 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:21,456 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:21,712 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:21,722 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:21,975 - INFO - Processados 2,000,000 registros em 6.6s (302314.5 reg/s)
+2025-05-19 11:46:21,983 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:21,986 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:22,240 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:22,250 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:22,499 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:22,510 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:22,771 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:22,781 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:23,050 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:23,060 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:23,313 - INFO - Processados 2,500,000 registros em 8.0s (314321.6 reg/s)
+2025-05-19 11:46:23,316 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:23,324 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:23,573 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:23,585 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:23,853 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:23,864 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:24,126 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:24,137 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:24,400 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:24,413 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:24,667 - INFO - Processados 3,000,000 registros em 9.3s (322296.5 reg/s)
+2025-05-19 11:46:24,670 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:24,679 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:24,939 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:24,949 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:25,206 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:25,217 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:25,469 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:25,480 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:25,723 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:25,733 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:25,985 - INFO - Processados 3,500,000 registros em 10.6s (329390.7 reg/s)
+2025-05-19 11:46:25,988 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:25,997 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:26,249 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:26,259 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:26,501 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:26,511 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:26,763 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:26,773 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:27,032 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:27,042 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:27,354 - INFO - Processados 4,000,000 registros em 12.0s (333484.2 reg/s)
+2025-05-19 11:46:27,357 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:27,365 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:27,683 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:27,694 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:27,939 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:27,951 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:28,211 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:28,221 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:28,516 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:28,527 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:28,788 - INFO - Processados 4,500,000 registros em 13.4s (335113.4 reg/s)
+2025-05-19 11:46:28,798 - INFO - PROGRESSO (31.8s): Processados 4,500,000 registros em 13.4s (335113.4 reg/s)
+2025-05-19 11:46:28,802 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:28,808 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:29,075 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:29,085 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:29,343 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:29,353 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:29,610 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:29,621 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:29,894 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:29,905 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:30,181 - INFO - Processados 5,000,000 registros em 14.8s (337339.2 reg/s)
+2025-05-19 11:46:30,184 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:30,193 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:30,463 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:30,474 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:30,743 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:30,754 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:31,026 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:31,037 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:31,301 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:31,311 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:31,563 - INFO - Processados 5,500,000 registros em 16.2s (339422.8 reg/s)
+2025-05-19 11:46:31,566 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:31,575 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:31,833 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:31,844 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:32,109 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:32,119 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:32,393 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:32,404 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:32,660 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:32,670 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:32,919 - INFO - Processados 6,000,000 registros em 17.6s (341687.2 reg/s)
+2025-05-19 11:46:32,928 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:32,931 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:33,191 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:33,202 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:33,468 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:33,478 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:33,735 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:33,745 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:34,004 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:34,015 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:34,266 - INFO - Processados 6,500,000 registros em 18.9s (343796.2 reg/s)
+2025-05-19 11:46:34,269 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:34,278 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:34,534 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:34,545 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:34,809 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:34,819 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:35,090 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:35,100 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:35,370 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:35,381 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:35,643 - INFO - Processados 7,000,000 registros em 20.3s (345101.8 reg/s)
+2025-05-19 11:46:35,646 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:35,655 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:35,941 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:35,951 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:36,219 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:36,230 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:36,483 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:36,494 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:36,752 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:36,762 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:37,107 - INFO - Processados 7,500,000 registros em 21.7s (344855.7 reg/s)
+2025-05-19 11:46:37,110 - ERROR - Erro ao adicionar chunk: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:37,125 - ERROR - Falha no método alternativo: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:37,179 - INFO - Arquivo K3241.K03200Y0.D50510.SOCIOCSV processado: 7,599,899 registros em 21.8s (348297.0 reg/s)
+2025-05-19 11:46:37,181 - INFO - Processando K3241.K03200Y1.D50510.SOCIOCSV (2/10 do lote atual)
+2025-05-19 11:46:37,203 - ERROR - Erro geral processando arquivo K3241.K03200Y1.D50510.SOCIOCSV: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:37,210 - INFO - Processando K3241.K03200Y2.D50510.SOCIOCSV (3/10 do lote atual)
+2025-05-19 11:46:37,235 - ERROR - Erro geral processando arquivo K3241.K03200Y2.D50510.SOCIOCSV: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:37,244 - INFO - Processando K3241.K03200Y3.D50510.SOCIOCSV (4/10 do lote atual)
+2025-05-19 11:46:37,265 - ERROR - Erro geral processando arquivo K3241.K03200Y3.D50510.SOCIOCSV: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:37,268 - INFO - Processando K3241.K03200Y4.D50510.SOCIOCSV (5/10 do lote atual)
+2025-05-19 11:46:37,289 - ERROR - Erro geral processando arquivo K3241.K03200Y4.D50510.SOCIOCSV: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:37,291 - INFO - Processando K3241.K03200Y5.D50510.SOCIOCSV (6/10 do lote atual)
+2025-05-19 11:46:37,311 - ERROR - Erro geral processando arquivo K3241.K03200Y5.D50510.SOCIOCSV: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:37,313 - INFO - Processando K3241.K03200Y6.D50510.SOCIOCSV (7/10 do lote atual)
+2025-05-19 11:46:37,330 - ERROR - Erro geral processando arquivo K3241.K03200Y6.D50510.SOCIOCSV: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:37,332 - INFO - Processando K3241.K03200Y7.D50510.SOCIOCSV (8/10 do lote atual)
+2025-05-19 11:46:37,350 - ERROR - Erro geral processando arquivo K3241.K03200Y7.D50510.SOCIOCSV: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:37,352 - INFO - Processando K3241.K03200Y8.D50510.SOCIOCSV (9/10 do lote atual)
+2025-05-19 11:46:37,363 - ERROR - Erro geral processando arquivo K3241.K03200Y8.D50510.SOCIOCSV: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:37,365 - INFO - Processando K3241.K03200Y9.D50510.SOCIOCSV (10/10 do lote atual)
+2025-05-19 11:46:37,381 - ERROR - Erro geral processando arquivo K3241.K03200Y9.D50510.SOCIOCSV: cannot access local variable 'colunas_existentes' where it is not associated with a value
+2025-05-19 11:46:37,383 - INFO - 
+Criando índices...
+2025-05-19 11:46:37,393 - INFO - Criando índices para a tabela k3241k03200y0d...
+2025-05-19 11:46:37,404 - INFO -   Índice criado: idx_k3241k03200y0d_cnpj na coluna col_0
+2025-05-19 11:46:37,405 - INFO - Criando índices para a tabela sqlite_stat1...
+2025-05-19 11:46:37,408 - INFO - Criando índices para a tabela socios...
+2025-05-19 11:46:37,508 - INFO -   Índice criado: idx_socios_cpf_miolo
+2025-05-19 11:46:37,511 - INFO - 
+Criando visões para facilitar consultas...
+2025-05-19 11:46:37,520 - INFO - 
+Otimizando banco de dados...
+2025-05-19 11:46:37,559 - INFO - Banco de dados criado com sucesso em cnpj_completo.db
+2025-05-19 11:46:37,561 - INFO - Tamanho do banco de dados: 10.50 MB (0.01 GB)
+2025-05-19 11:46:37,561 - INFO - Processamento concluído em 40.55 segundos (0.68 minutos)
+2025-05-19 11:46:37,564 - INFO - === PROCESSAMENTO FINALIZADO EM 2025-05-19 11:46:37 ===

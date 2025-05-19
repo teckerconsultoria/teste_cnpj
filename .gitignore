@@ -1,0 +1,65 @@
+# Arquivos de dados
+*.zip
+*.csv
+*.txt
+!requirements.txt
+!README.md
+
+# Diretórios de dados
+data/
+dados_cnpj_amostra/
+dados_cnpj_extraidos/
+dados_cnpj_completo/
+dados_cnpj_completo_extraidos/
+base_completa/
+resultados/
+
+# Banco de dados
+*.db
+*.db.bak
+*.db-*
+*.db-journal
+
+# Logs
+*.log
+
+# Checkpoints
+download_checkpoint.json
+*.bak
+*.json
+!.gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environments
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# IDE
+.idea/
+.vscode/

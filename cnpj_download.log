@@ -1,0 +1,47 @@
+2025-05-18 21:33:07,751 - INFO - Iniciando modo de execução contínua...
+2025-05-18 21:33:07,752 - INFO - Iniciando ciclo de download...
+2025-05-18 21:33:09,197 - INFO - Mês atual identificado: https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-05/
+2025-05-18 21:33:09,533 - INFO - Descobertos 37 arquivos para download
+2025-05-18 21:33:09,535 - INFO - Iniciando download de 37 arquivos pendentes...
+2025-05-18 21:33:09,952 - INFO - Download de Cnaes.zip concluído com sucesso.
+2025-05-18 21:33:55,285 - INFO - Download de Empresas1.zip concluído com sucesso.
+2025-05-18 21:33:55,663 - INFO - Download de Empresas2.zip concluído com sucesso.
+2025-05-18 21:34:00,298 - INFO - Download de Empresas3.zip concluído com sucesso.
+2025-05-18 21:34:46,075 - INFO - Download de Empresas4.zip concluído com sucesso.
+2025-05-18 21:34:49,693 - INFO - Download de Empresas5.zip concluído com sucesso.
+2025-05-18 21:34:54,115 - INFO - Download de Empresas6.zip concluído com sucesso.
+2025-05-18 21:35:46,631 - INFO - Download de Empresas7.zip concluído com sucesso.
+2025-05-18 21:35:47,272 - INFO - Download de Empresas8.zip concluído com sucesso.
+2025-05-18 21:35:48,914 - INFO - Download de Empresas9.zip concluído com sucesso.
+2025-05-18 21:37:23,151 - INFO - Download de Empresas0.zip concluído com sucesso.
+2025-05-18 21:39:04,523 - INFO - Download de Estabelecimentos1.zip concluído com sucesso.
+2025-05-18 21:39:05,848 - INFO - Download de Estabelecimentos2.zip concluído com sucesso.
+2025-05-18 21:40:51,330 - INFO - Download de Estabelecimentos3.zip concluído com sucesso.
+2025-05-18 21:42:24,049 - INFO - Download de Estabelecimentos5.zip concluído com sucesso.
+2025-05-18 21:42:34,298 - INFO - Download de Estabelecimentos4.zip concluído com sucesso.
+2025-05-18 21:44:10,250 - INFO - Download de Estabelecimentos6.zip concluído com sucesso.
+2025-05-18 21:46:02,003 - INFO - Download de Estabelecimentos7.zip concluído com sucesso.
+2025-05-18 21:46:02,353 - INFO - Download de Motivos.zip concluído com sucesso.
+2025-05-18 21:46:02,731 - INFO - Download de Municipios.zip concluído com sucesso.
+2025-05-18 21:46:03,098 - INFO - Download de Naturezas.zip concluído com sucesso.
+2025-05-18 21:46:03,455 - INFO - Download de Paises.zip concluído com sucesso.
+2025-05-18 21:46:03,794 - INFO - Download de Qualificacoes.zip concluído com sucesso.
+2025-05-18 21:46:09,245 - INFO - Download de Estabelecimentos8.zip concluído com sucesso.
+2025-05-18 21:47:40,504 - INFO - Download de Estabelecimentos9.zip concluído com sucesso.
+2025-05-18 21:47:59,199 - INFO - Download de Socios0.zip concluído com sucesso.
+2025-05-18 21:48:08,116 - INFO - Download de Socios1.zip concluído com sucesso.
+2025-05-18 21:48:28,189 - INFO - Download de Socios2.zip concluído com sucesso.
+2025-05-18 21:48:36,791 - INFO - Download de Socios3.zip concluído com sucesso.
+2025-05-18 21:48:42,624 - INFO - Download de Simples.zip concluído com sucesso.
+2025-05-18 21:48:57,156 - INFO - Download de Socios4.zip concluído com sucesso.
+2025-05-18 21:49:06,586 - INFO - Download de Socios5.zip concluído com sucesso.
+2025-05-18 21:49:12,807 - INFO - Download de Socios6.zip concluído com sucesso.
+2025-05-18 21:49:26,941 - INFO - Download de Socios7.zip concluído com sucesso.
+2025-05-18 21:49:37,531 - INFO - Download de Socios8.zip concluído com sucesso.
+2025-05-18 21:49:40,096 - INFO - Download de Socios9.zip concluído com sucesso.
+2025-05-18 21:53:18,890 - INFO - Download de Estabelecimentos0.zip concluído com sucesso.
+2025-05-18 21:53:18,901 - INFO - Todos os arquivos foram baixados com sucesso!
+2025-05-18 21:53:18,909 - INFO - Todos os arquivos foram baixados. Verificando novamente em 60.0 minutos.
+2025-05-18 21:53:18,911 - INFO - Aguardando 60.0 minutos antes do próximo ciclo...
+2025-05-18 21:53:33,566 - INFO - Execução interrompida pelo usuário. Salvando estado atual...
+2025-05-18 21:53:33,574 - INFO - Estado salvo. O script pode ser reiniciado para continuar de onde parou.
